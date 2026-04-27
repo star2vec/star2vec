@@ -1,8 +1,6 @@
-.         ⊹ ₊
-      __   ☆
-⊂⊂  • )  
-   /     | 
-⊂_﹏u 　　 　　　　 
+ ᘏ⑅ᘏ  ഒ zᶻ
+꒰˶ -˕-꒱ ⌒)ᦱ
+
 <!--
 **star2vec/star2vec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
