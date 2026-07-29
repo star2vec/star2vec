@@ -3,6 +3,7 @@
 („•˕•„)˙⋆✮
 ━O━O━━━━━━━   
  ```
+
 <!--
 
 <pre>
@@ -38,6 +39,8 @@ minis/minies/honorable mentions?? idk cum se zice
 > <a href="https://github.com/star2vec/libugry">libugry: Python library dependency advisor based on context graphs</a> 
 > <a href="https://github.com/star2vec/odyssey_knowledge-graph">knowledge graph based on the first book of the odyssey</a>  
   
+
+.˚⊹. ࣪𓉸 ࣪project graveyard 𓉸⊹˚.
 
 
 </pre>
