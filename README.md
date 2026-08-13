@@ -28,7 +28,7 @@ stay tuned for the ones i have not listed yet >:)
 </pre>
 
 <pre>
-<b>.˚⊹. ࣪ projects, tidbits & more ^_^ ⊹˚.</b>
+<b>.˚⊹. ࣪ projects, tidbits & for funsies ^_^ ⊹˚.</b>
 > <a href="https://github.com/star2vec/libugry">libugry: Python library dependency advisor based on context graphs</a> [side quest]
 > <a href="https://github.com/star2vec/odyssey_knowledge-graph">knowledge graph based on the first book of the odyssey</a> [side quest]
 > <a href="https://github.com/Ztefan137/Proiect-movfuscator-asc">movfuscator re-do (rewriting assembly x86 at&t code to only use the mov instruction)</a> [uni group proj]
