@@ -12,6 +12,7 @@
 > Reddit is all you need: Authorship profiling for Romanian [<a href="https://arxiv.org/abs/2410.09907">ConsILR 2024</a>]
 
 <b>... and more research!! ⚙️ work in progress :P (the experiments are mostly complete)</b>
+> <a href="https://github.com/star2vec/whackamole">whack-a-mole</a>: does a model internally track its automaton state? [<a href="https://www.lesswrong.com/posts/LzeZW9PvR6Njc9ngr/whack-a-mole-with-a-broken-hammer-does-a-model-internally">LessWrong article</a>] 
 > <a href="https://github.com/star2vec/libucks">LiBucks</a>: a latent-space memory server for coding agents (context is split between buckets with their own librarian)
 > <a href="https://github.com/star2vec/tarcle">circularity of task vectors / broken instrument?</a>
 > <a href="https://github.com/star2vec/cogniDISS">position bias in LLM judges is worse than people think</a> (finding from an inconclusive LLM cognitive dissonance experiment)
