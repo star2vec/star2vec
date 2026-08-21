@@ -13,8 +13,8 @@
 
 <b>... and more research!! ⚙️ work in progress :P (the experiments are mostly complete)</b>
 > <a href="https://github.com/star2vec/whackamole">whack-a-mole</a>: does a model internally track its automaton state? [<a href="https://www.lesswrong.com/posts/LzeZW9PvR6Njc9ngr/whack-a-mole-with-a-broken-hammer-does-a-model-internally">LessWrong article</a>] 
+> <a href="https://github.com/star2vec/tarcle">The imposters among us</a>: function vectors that ace every check and do the wrong task (in search of circularity) [<a href="https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check">LessWrong article</a>] 
 > <a href="https://github.com/star2vec/libucks">LiBucks</a>: a latent-space memory server for coding agents (context is split between buckets with their own librarian)
-> <a href="https://github.com/star2vec/tarcle">circularity of task vectors / broken instrument?</a>
 > <a href="https://github.com/star2vec/cogniDISS">position bias in LLM judges is worse than people think</a> (finding from an inconclusive LLM cognitive dissonance experiment)
 > <a href="https://github.com/star2vec/let-that-sync-in">how decorrelated failures beat reward hacking</a> (from a kind of failed test on how much the language prevents reward hacking)
 
