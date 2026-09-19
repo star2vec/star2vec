@@ -6,13 +6,13 @@
 
 <pre>
 <b>coming really soon (papers under review)... ⋆˙⟡</b>
-> <a href="https://github.com/star2vec/RRR">Read, Replace, Never Rewrite: Continuous Thoughts Carry Search Structure, Not Answer Identity</a> [preprint coming soon]
+> <a href="https://github.com/star2vec/phoenix">Latent Reasoning Knows Where It Is, Not How It Got There</a> [preprint coming soon]
 > <a href="https://github.com/star2vec/genloss">GenLoss</a>: a benchmark for memory and compaction methods under repeated compression [preprint coming soon]
   
 <b>✧˖°.✎ → already published:</b>
 > Reddit is all you need: Authorship profiling for Romanian [<a href="https://arxiv.org/abs/2410.09907">ConsILR 2024</a>]
 
-<b>˙⋆✮ LessWrong articles (research sprins) ⋆˚࿔</b>
+<b>˙⋆✮ LessWrong articles (research sprints) ⋆˚࿔</b>
 > <a href="https://github.com/star2vec/tarcle">The imposters among us</a>: function vectors that ace every check and do the wrong task (in search of circularity) [<a href="https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check">link</a>] 
 > <a href="https://github.com/star2vec/whackamole">Whack-a-mole</a>: does a model internally track its automaton state? [<a href="https://www.lesswrong.com/posts/LzeZW9PvR6Njc9ngr/whack-a-mole-with-a-broken-hammer-does-a-model-internally">link</a>] 
 > <a href="https://github.com/star2vec/lattrack">(lattrack)</a> No sign of backtracking in latent reasoning: the final answer simply settles in instead [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">link</a>]   
