@@ -29,7 +29,7 @@ stay tuned for the ones i have not listed yet >:)
     ˋ°•*⁀➷
 <b>₊·.°.⋆ favs shortlist ⋆.°.‧₊</b>
 > <a href="https://github.com/star2vec/cpp-dr-house-visual-novel">⚝ dr. House visual novel game in C++ ⚝</a> [uni project]
-> <a href="https://github.com/star2vec/echoswarm">EchoSwarm ༄ flood evacuation engine (satellite data + dynamic Neo4j geospatial graph + multi-agent simulations)</a> [hackathon build]
+> <a href="https://github.com/star2vec/echoswarm">EchoSwarm</a> ༄ flood evacuation engine (satellite data + dynamic Neo4j geospatial graph + multi-agent simulations) [hackathon build]
 </pre>
 
 <pre>
