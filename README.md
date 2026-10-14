@@ -1,11 +1,16 @@
   ```
 ‎ ‎(\(\ 
 („•˕•„)˙⋆✮
-━O━O━━━━━━━   
+━O━O━━━━━━━
+Hi, I'm Ecaterina ^_^ my current interests:
+ ☆ mech interp
+ ☆ learning, exploring, and playing around with new concepts
+ ☆ research sprints
+ ☆ going down rabbit holes ₍ᐢ. .ᐢ₎ ₊˚⊹
  ```
 
 <pre>
-<b>coming really soon (papers under review)... ⋆˙⟡</b>
+<b>bigger research projects (coming soon...⋆˙⟡) </b>
 > <a href="https://github.com/star2vec/phoenix">Latent Reasoning Knows Where It Is, Not How It Got There</a> [preprint coming soon]
 > <a href="https://github.com/star2vec/genloss">GenLoss</a>: a benchmark for memory and compaction methods under repeated compression [preprint coming soon]
   
