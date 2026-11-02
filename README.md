@@ -2,11 +2,6 @@
 ‎ ‎(\(\ 
 („•˕•„)˙⋆✮
 ━O━O━━━━━━━
-Hi, I'm Ecaterina ^_^ my current interests:
- ☆ mech interp
- ☆ learning, exploring, and playing around with new concepts
- ☆ research sprints
- ☆ going down rabbit holes ₍ᐢ. .ᐢ₎ ₊˚⊹
  ```
 
 <pre>
