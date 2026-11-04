@@ -7,11 +7,20 @@
 <pre>
 <b>˙⋆✮ LessWrong articles (research sprints) ⋆˚࿔</b>
   
-> When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame) [<a href="https://www.lesswrong.com/posts/yo2WYj7eX3oGCuR6t/when-talked-into-harm-a-model-blames-the-answer-not-itself">article</a>/<a href="https://github.com/star2vec/guiltea">repo</a>] - Neel Nanda stream application (Winter 2027)
-> No sign of backtracking in latent reasoning: the final answer simply settles in instead [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">article</a>/<a href="https://github.com/star2vec/lattrack">repo</a>]   
-> The imposters among us: function vectors that ace every check and do the wrong task (in search of circularity) [<a href="https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check">article</a>/<a href="https://github.com/star2vec/tarcle">repo</a>] 
-> A problem with three correct answers. Which, how, and when does a model choose? [<a href="https://www.lesswrong.com/posts/GymxEweup4GyNbpRE/a-problem-with-three-correct-answers-which-how-and-when-does">article</a>/<a href="https://github.com/star2vec/bertrand">repo</a>] 
-> Whack-a-mole with a broken hammer: does a model internally track its automaton state? [<a href="https://www.lesswrong.com/posts/LzeZW9PvR6Njc9ngr/whack-a-mole-with-a-broken-hammer-does-a-model-internally">article</a>/<a href="https://github.com/star2vec/whackamole">repo</a>] 
+> Handshake for the cameras: reading and steering emergent model collusion 
+  (Apart AI Collusion Research sprint, solo submission) 
+  [<a href="https://github.com/star2vec/apart/blob/main/handshake-for-the-cameras.pdf">write-up</a>/<a href="https://www.lesswrong.com/posts/PJuwj7fDpvj2opLTe/handshake-for-the-cameras-reading-and-steering-emergent">article</a>/<a href="https://github.com/star2vec/apart">repo</a>]
+> When talked into harm, a model blames the answer, not itself (an interpretability study of guilt vs shame)
+  (Neel Nanda stream application, Winter 2027)
+  [<a href="https://www.lesswrong.com/posts/yo2WYj7eX3oGCuR6t/when-talked-into-harm-a-model-blames-the-answer-not-itself">article</a>/<a href="https://github.com/star2vec/guiltea">repo</a>]
+> No sign of backtracking in latent reasoning: the final answer simply settles in instead 
+  [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">article</a>/<a href="https://github.com/star2vec/lattrack">repo</a>]   
+> The imposters among us: function vectors that ace every check and do the wrong task (in search of circularity)
+  [<a href="https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check">article</a>/<a href="https://github.com/star2vec/tarcle">repo</a>] 
+> A problem with three correct answers. Which, how, and when does a model choose?
+  [<a href="https://www.lesswrong.com/posts/GymxEweup4GyNbpRE/a-problem-with-three-correct-answers-which-how-and-when-does">article</a>/<a href="https://github.com/star2vec/bertrand">repo</a>] 
+> Whack-a-mole with a broken hammer: does a model internally track its automaton state?
+  [<a href="https://www.lesswrong.com/posts/LzeZW9PvR6Njc9ngr/whack-a-mole-with-a-broken-hammer-does-a-model-internally">article</a>/<a href="https://github.com/star2vec/whackamole">repo</a>] 
 
 
  ˙⋆✮ Check out my profile ⌯⌲ <a href="https://www.lesswrong.com/users/star2vec">star2vec</a> ⋆˚࿔
