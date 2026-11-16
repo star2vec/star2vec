@@ -14,7 +14,9 @@
   (Neel Nanda stream application, Winter 2027)
   [<a href="https://www.lesswrong.com/posts/yo2WYj7eX3oGCuR6t/when-talked-into-harm-a-model-blames-the-answer-not-itself">article</a>/<a href="https://github.com/star2vec/guiltea">repo</a>]
 > No sign of backtracking in latent reasoning: the final answer simply settles in instead 
-  [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">article</a>/<a href="https://github.com/star2vec/lattrack">repo</a>]   
+  [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">article</a>/<a href="https://github.com/star2vec/lattrack">repo</a>]
+> False faced: can a simple classifier tell when a model is manipulating its activations to evade probes? 
+   [<a href="https://www.lesswrong.com/posts/QxvwPhnvJ5evGT8Hw/no-sign-of-backtracking-in-latent-reasoning-the-final-answer">article</a>/<a href="https://github.com/star2vec/falsefaced">repo</a>]
 > The imposters among us: function vectors that ace every check and do the wrong task (in search of circularity)
   [<a href="https://www.lesswrong.com/posts/aFyir2PaoCHK5prAu/the-imposters-among-us-function-vectors-that-ace-every-check">article</a>/<a href="https://github.com/star2vec/tarcle">repo</a>] 
 > A problem with three correct answers. Which, how, and when does a model choose?
